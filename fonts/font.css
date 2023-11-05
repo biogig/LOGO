@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Swagger TTF';
+    font-weight: normal;
+    font-style: normal;
+    src: local('Swagger TTF'), url(SDSwaggerTTF.woff);
+}
+
+/*Для каждого  font-weight или font-style нужен новый @font-face*/
